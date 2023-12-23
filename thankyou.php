@@ -19,6 +19,6 @@
 	<h2>Have fun!</h2>
 	<img src="assets/img/havefun.png" class="centerb">
 	</div>
-	<a href="index.html"><img src="assets/img/continue_bt.png" class="centerb"></a>
+	<a href="/"><img src="assets/img/continue_bt.png" class="centerb"></a>
 </body>
 </html>
