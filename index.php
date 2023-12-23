@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Sprigatitoverse - Loading...</title>
-	<meta http-equiv="refresh" content="5; URL=communities">
+	<meta http-equiv="refresh" content="5; URL=communities.php">
 </head>
 <body>
 <img src="https://files.catbox.moe/af556k.webm" width="100%" height="100%">
