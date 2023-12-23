@@ -15,16 +15,16 @@
   <a href="/">
   	<img src="assets/img/logo.png" weight="150" height="50px">
   </a>
-  <a href="/communities">
+  <a href="/communities.php">
   	<img src="assets/img/communities.png" weight="150" height="50px">
   </a>
-  <a href="/feed">
+  <a href="/feed.php">
   	<img src="assets/img/afeed.png" weight="150" height="50px">
   </a>
-  	<a href="/plist">
+  	<a href="/plist.php">
   	<img src="assets/img/plist.png" weight="150" height="50px">
   	</a>
-  <a href="/acc/signup">
+  <a href="/acc/signup.php">
       <img src="assets/img/signin.png" class="right" width="135px" height="50px">
     </a>
 </div>
