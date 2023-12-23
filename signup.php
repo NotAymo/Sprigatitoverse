@@ -20,7 +20,7 @@
             width="740çi" 
             height="300">
           </div>
-          <a href="/home/xpxx/Desktop/spgv/signup-form.html">
+          <a href="signup-form.php">
             <img src="assets/img/continue_bt.png" class="centerb">
             </a>
         </body>
