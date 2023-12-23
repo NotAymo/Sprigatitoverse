@@ -12,19 +12,19 @@
 </audio>
 <body>
 <div class="navbar">
-  <a href="index.html">
+  <a href="/">
   	<img src="assets/img/logo.png" weight="150" height="50px">
   </a>
-  <a href="communities.html">
+  <a href="/communities">
   	<img src="assets/img/communities.png" weight="150" height="50px">
   </a>
-  <a href="feed.html">
+  <a href="/feed">
   	<img src="assets/img/afeed.png" weight="150" height="50px">
   </a>
-  	<a href="/home/xpxx/Desktop/spgv/plist.html">
+  	<a href="/plist">
   	<img src="assets/img/plist.png" weight="150" height="50px">
   	</a>
-  <a href="/home/xpxx/Desktop/spgv/signup.html">
+  <a href="/acc/signup">
       <img src="assets/img/signin.png" class="right" width="135px" height="50px">
     </a>
 </div>
