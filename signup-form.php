@@ -13,7 +13,7 @@
     <div class="center">
       <h1>Sign-up</h1>
       <h2>Sign-up for more Sprigatitoverse content.</h2>
-      <form action="/home/xpxx/Desktop/spgv/thankyou.html">
+      <form action="/lact.php">
         <input type="text" id="uname" name="username" placeholder="Username">
         <input type="text" id="pword" name="password" placeholder="Password">
         <input type="text" id="mail" name="mail" placeholder="E-Mail Address">
