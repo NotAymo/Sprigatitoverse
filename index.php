@@ -7,7 +7,7 @@
 	<meta http-equiv="refresh" content="5; URL=communities.html">
 </head>
 <body>
-<img src="assets/vidgif/bootanim.gif" width="100%" height="100%">
+<img src="https://files.catbox.moe/af556k.webm" width="100%" height="100%">
 <audio loop autoplay>
 	<source src="assets/audio/bootaud.mp3" type="audio/mpeg">
 </audio>
