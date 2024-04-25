@@ -1,3 +1,6 @@
+# NOTE: i stopped working on this, please do not use it for anything
+# NOTE 2: i'm working on Partialverse, this repo is gonna be archived soon
+
 # Sprigatitoverse
 My first "Miiverse clone" i made. 
 # Setup
